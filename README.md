@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Criando um site usando apenas IA 
 
 ## 📒 Descrição
 Breve descrição do seu projeto
